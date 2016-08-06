@@ -1,2 +1,2 @@
 # robot-control
-Industrial robot controller for FANUC S-420F
+Control software for a FANUC S-420F industrial robot.
